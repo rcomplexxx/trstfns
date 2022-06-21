@@ -1,0 +1,10 @@
+Privacy Policy
+
+-Koala bear fan built the Animox - feel the forest memory game as an Ad Supported game. 
+
+-Animox does NOT collect any personal or vulnerable data. Animox is completely safe to play for everyone.
+
+-This policy is effective as of 2022-06-21
+
+-If you have any questions or suggestions about my Privacy Policy, 
+do not hesitate to contact me at micicmarko296@gmail.com.
