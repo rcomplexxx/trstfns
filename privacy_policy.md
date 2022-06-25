@@ -6,7 +6,7 @@ Privacy Policy
 You can find the list of Google Play certified ad networks here:
 https://support.google.com/googleplay/android-developer/answer/9283445?hl=en
 
--Animox does NOT collect any data other then data needed for advertisement. Animox is family friendly and completely safe to play for everyone.
+-Animox does NOT collect any data other than data needed for advertisement. Animox is family friendly and completely safe to play for everyone.
 
 -This policy is effective as of 2022-06-25
 
