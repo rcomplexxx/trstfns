@@ -6,8 +6,6 @@ Privacy Policy
 You can find the list of Google Play certified ad networks [here](https://support.google.com/googleplay/android-developer/answer/9283445).
 You can read Unity Privacy policy [here](https://unity3d.com/legal/privacy-policy).
 
-
-
 -Animox does NOT collect any data other than data needed for advertisement. Animox is family friendly and completely safe to play for everyone.
 
 -This policy is effective as of 2022-06-25
