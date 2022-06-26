@@ -3,8 +3,8 @@ Privacy Policy
 -Koala bear fan built the Animox - feel the forest memory game as an Ad Supported game. 
 
 -Animox only collects data needed for advertisement. Animox uses Unity ads SDK, which comply with Google Play Families Ads Program requirements.
-You can find the list of Google Play certified ad networks here: [a link](https://support.google.com/googleplay/android-developer/answer/9283445)
-You can read Unity Privacy policy here: [a link](https://unity3d.com/legal/privacy-policy)
+You can find the list of Google Play certified ad networks [here](https://support.google.com/googleplay/android-developer/answer/9283445).
+You can read Unity Privacy policy [here](https://unity3d.com/legal/privacy-policy).
 
 
 
